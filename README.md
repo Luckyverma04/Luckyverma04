@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Hi, I'm Lucky Verma: Backend & MERN Developer" width="100%" />
+<img src="assets/header.png" alt="Hi, I'm Lucky Verma: Software Developer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Backend+%26+MERN+Developer;I+build+REST+APIs+with+Node+%2B+Express;React+frontends+with+maps+and+3D;Always+shipping+something+new+%E2%9A%A1" alt="Typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+%26+Backend+with+Node+%2B+Express;Java+%C2%B7+C+%C2%B7+C%2B%2B+for+DSA+and+OOP;Currently+working+with+Python+%F0%9F%90%8D" alt="Typing intro" /></a>
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://lucky-portfolio-tau.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-verma-886547307/)
@@ -14,12 +14,22 @@
 
 ## 👋 About me
 
-- ⚡ I'm a **backend and MERN developer**. I like building APIs, auth, emails and the dashboards that sit on top of them.
-- 🔭 Right now I'm working on **[StayNearEV](https://github.com/Luckyverma04/StayNearEvFrontend)**, an app to find and book EV charging stations.
-- 🌱 Learning: machine learning ([ml-journey](https://github.com/Luckyverma04/ml-journey)) and React Native ([StayNearEV app](https://github.com/Luckyverma04/Stay-NearEv-APK)).
-- 💬 Ask me about Node.js, Express, MongoDB, JWT auth and React.
+- 💻 I'm a **software developer**. Most of my work is **MERN and backend**: REST APIs, auth, emails and the dashboards on top of them.
+- ☕ I also write **Java, C and C++**: DSA problems, OOP and practice programs ([Java DSA](https://github.com/Luckyverma04/Problem-Solving-Codes-in-java) · [C](https://github.com/Luckyverma04/Training-codes) · [C++](https://github.com/Luckyverma04/training-Cpp)).
+- 🐍 Currently working with **Python** and machine learning ([ml-journey](https://github.com/Luckyverma04/ml-journey)).
+- 🔭 Building **[StayNearEV](https://github.com/Luckyverma04/StayNearEvFrontend)**, an app to find and book EV charging stations, plus its [Android app](https://github.com/Luckyverma04/Stay-NearEv-APK).
+- 💬 Ask me about Node.js, Express, MongoDB, React, JWT auth and DSA.
 
 ## 🛠️ Tech stack
+
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend**
 <br/>
@@ -40,17 +50,13 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-**Languages & tools**
+**Tools & hosting**
 <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
