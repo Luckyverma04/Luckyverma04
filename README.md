@@ -4,9 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Backend+%26+MERN+Developer;I+build+REST+APIs+with+Node+%2B+Express;React+frontends+with+maps+and+3D;Always+shipping+something+new+%E2%9A%A1" alt="Typing intro" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=black)](https://lucky-portfolio-tau.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-verma-886547307/)
-[![StayNearEV](https://img.shields.io/badge/Live-StayNearEV-8B5CF6?style=for-the-badge&logo=render&logoColor=white)](https://staynearevfrontend.onrender.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://lucky-portfolio-tau.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-verma-886547307/)
+[![GitHub followers](https://img.shields.io/github/followers/Luckyverma04?style=for-the-badge&logo=github&label=Follow&color=0E1130)](https://github.com/Luckyverma04)
 
 </div>
 
